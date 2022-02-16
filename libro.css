@@ -1,0 +1,18 @@
+
+h2{
+    
+   color: black;
+}
+
+p{
+   
+    color:blue;
+    display: list-item;
+  list-style: disc inside;
+  
+  
+}
+span{
+    font-weight: bolder;
+   background-color: yellow;
+}
